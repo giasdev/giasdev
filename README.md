@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://giasulhassan.com"><img src="https://img.shields.io/badge/Website-giasulhassan.com-019aff?style=flat-square" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/giasulhassan/"><img src="https://img.shields.io/badge/LinkedIn-giasulhassan-0a66c2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/giasulhassan/"><img src="https://img.shields.io/badge/LinkedIn-giasulhassan-0a66c2?style=flat-square" alt="LinkedIn"></a>
   <a href="mailto:contact@giasulhassan.com"><img src="https://img.shields.io/badge/Email-contact%40giasulhassan.com-14121f?style=flat-square" alt="Email"></a>
 </p>
 
