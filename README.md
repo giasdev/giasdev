@@ -17,7 +17,6 @@
 - Building for the web since 2019, with 100+ businesses served across 7+ countries
 - Rated 5.0 on Google by my clients
 - Full Stack Developer at PNTR Group
-- Also building [MobileSahab](https://www.mobilesahab.pk), an online store for genuine, PTA approved mobile phones and accessories
 
 ### What I build
 
